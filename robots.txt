@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eekoiceim.super-mark.ru/sitemap.xml
